@@ -60,7 +60,7 @@ Anissa, Shell Basics, submitted
 Mark, Shell Navigation, submitted
 Sylvie, Visual Basic, not submitted
 Obueze Louisa, Python Basics, submitted
-Winbald, Database Management, submitted
+Umutoni, Database Management, submitted
 Olive, HTML & CSS, not submitted
 Precious, JavaScript, submitted
 Samuel, Linux Basics, not submitted
