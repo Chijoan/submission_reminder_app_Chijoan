@@ -1,5 +1,6 @@
 
-```markdown
+```
+markdown
 # Submission Reminder App
 
 A simple Bash-based tool designed to help instructors keep track of student assignment submissions. This script scans a list of student assignments and sends reminders for those who have not submitted yet.
