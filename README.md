@@ -97,12 +97,3 @@ This project is open-source and free to use.
 ## Author
 
 Created by **Obueze Chisom Louisa**.
-
----
-
-Feel free to customize and extend this tool for your teaching or project management needs!
-````
-
----
-
-If you want, I can customize the **Author** section with your name or add badges or usage examples!
