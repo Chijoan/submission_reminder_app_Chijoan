@@ -1,0 +1,19 @@
+
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Umulisa, shell permissions, submitted
+Briella, Python, submitted
+Ella, C++,submitted
+Okosugo, Shell Navigation, not submitted
+Shema, shell Redirections and filters, submitted
+sylvie, team dynamics, not submitted
+Anne, C, submitted
+Emma, JavaScript, submitted
+John, Data Structures, submitted
+Lily, Python, not submitted
+John, Python, not submitted
+Jane, Python, not submitted
+Mark, Shell Navigation, submitted
